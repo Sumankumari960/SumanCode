@@ -1,4 +1,4 @@
 # SumanCode
 This is my first Git Repository.
 <br>
-Author-Suman Kumari
+Author-Suman (Kumari)
